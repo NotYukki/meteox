@@ -1,2 +1,3 @@
 # meteox
 Check you meteo by putting your city its prevision for the 3 next days
+This project had been create by me and i used a bit of ai for the request and to fix my problems at the end it changed my whole program....
